@@ -1,0 +1,31 @@
+ITCodeFair2025/
+├── public/
+│   └── index.html
+├── src/
+│   ├── assets/
+│   │   ├── logo.png
+│   │   ├── judge1.jpg
+│   │   ├── sponsor1.png
+│   │   └── ...
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Hero.jsx
+│   │   ├── CompetitionCard.jsx
+│   │   ├── AmbassadorCard.jsx
+│   │   ├── GalleryLightbox.jsx
+│   │   └── ...
+│   ├── layouts/
+│   │   └── MainLayout.jsx
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Competitions.jsx
+│   │   ├── SpeedDating.jsx
+│   │   ├── JudgesSponsors.jsx
+│   │   └── AboutUs.jsx
+│   ├── App.jsx
+│   ├── index.js
+│   └── index.css
+├── tailwind.config.js
+├── package.json
+└── ...
