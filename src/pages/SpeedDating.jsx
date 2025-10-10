@@ -8,8 +8,16 @@ const SpeedDating = () => {
   };
   return (
     <section className="max-w-3xl mx-auto py-12 px-4">
-      <h1 className="text-3xl font-bold text-accent mb-4">Speed Dating Event</h1>
-      <p className="mb-6">Meet industry professionals and fellow students in a series of quick, focused conversations. Expand your network, discover opportunities, and have fun!</p>
+      <h1 className="text-3xl font-bold text-accent mb-4">Employee Speed Dating</h1>
+      <p className="mb-6">
+        <strong> Opportunity for the students to present their work to industries:</strong>
+        <ul className="list-disc pl-6">
+          <li>3-minute meetings with diverse industry representatives</li>
+          <li>Introduce yourself and your work to potential employers</li>
+          <li>Make a strong first impression in a short time</li>
+          <li>Engage in fast-paced, impactful conversations</li>
+        </ul>
+<em>*Ensure your presentation is practical, concise, and industry-relevant.</em></p>
       <div className="bg-white rounded-2xl shadow p-6">
         <h2 className="text-xl font-bold text-secondary mb-2">Sign Up</h2>
         {signedUp ? (
